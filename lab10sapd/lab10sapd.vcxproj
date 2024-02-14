@@ -24,6 +24,7 @@
     <ProjectGuid>{e521d21d-1620-49b3-9fe9-4bdb419fb5fb}</ProjectGuid>
     <RootNamespace>lab10sapd</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Lab_10_SAPD</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
